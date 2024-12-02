@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800821195486",
+    "project_id": "blog-travel-be309",
+    "storage_bucket": "blog-travel-be309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800821195486:android:797551850477bfac80084f",
+        "android_client_info": {
+          "package_name": "com.example.blog_travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU56JHq8_dq7yKJ8ghaJm4fypYi8q2qCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
